@@ -3,14 +3,14 @@
   "nodes": [
     {
       "text": "Introduction",
-      "routerLink": "/introduction"
+      "docId": "/introduction"
     },
     {
       "text": "Getting started",
       "children": [
         {
           "text": "Quick start",
-          "routerLink": "/getting-started"
+          "docId": "/getting-started"
         }
       ]
     }
