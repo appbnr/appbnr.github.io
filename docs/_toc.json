@@ -1,0 +1,17 @@
+{
+  "nodes": [
+    {
+      "text": "Introduction",
+      "routerLink": "/developer/introduction"
+    },
+    {
+      "text": "Getting started",
+      "children": [
+        {
+          "text": "Quick start",
+          "routerLink": "/developer/getting-started"
+        }
+      ]
+    }
+  ]
+}
