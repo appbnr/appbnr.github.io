@@ -11,6 +11,10 @@
         {
           "text": "Quick start",
           "docId": "/getting-started.md"
+        },
+        {
+          "text": "Developer Access Token",
+          "docId": "/developer-access-token.md"
         }
       ]
     }
