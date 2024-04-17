@@ -5,8 +5,9 @@ Despite so many technological advancements over the years, we still encounter si
 ## The Challenges
 
 For businesses:
-* High and unpredictable costs
-* Lengthy and uncertain delivery times
+* _High and unpredictable costs_: If high costs are already an issue, their escalation during project execution can be an even greater challenge.
+* _Lengthy and uncertain delivery times_: Consider the number of times you've been informed that projects cannot meet the agreed-upon deadlines and require continuous extensions.
+
 
 For developers:
 * Programming is only a part of the lifecycle of business solutions. A more and more complex technology stack prevents individuals or small teams to be able to delvier software solutions.
