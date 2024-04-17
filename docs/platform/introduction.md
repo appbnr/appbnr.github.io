@@ -11,4 +11,4 @@ Our mission is to connect businesses and developers through a data-centric appli
 
 ## Value
 
-At our core, we value `fairness` and `transparency`. We are committed to building a platform where businesses and developers can collaborate effectively. Regardless of size or location, we believe `everyone` should have the opportunity to benefit from digitalization advancements.
+At our core, we value fairness and transparency. We are committed to building a platform where businesses and developers can collaborate effectively. Regardless of size or location, we believe everyone should have the opportunity to benefit from digitalization advancements.
