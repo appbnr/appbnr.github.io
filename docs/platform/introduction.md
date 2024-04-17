@@ -4,7 +4,7 @@
 
 Make digitalization easier for all.
 
-[Read more](./make-digitalization-easier-for-all)
+[Read more](./make-digitalization-easier-for-all.md)
 
 ## Mission
 

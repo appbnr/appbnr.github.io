@@ -3,14 +3,14 @@
   "nodes": [
     {
       "text": "Introduction",
-      "docId": "/introduction"
+      "docId": "/introduction.md"
     },
     {
       "text": "Getting started",
       "children": [
         {
           "text": "Quick start",
-          "docId": "/getting-started"
+          "docId": "/getting-started.md"
         }
       ]
     }

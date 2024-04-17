@@ -3,10 +3,10 @@
   "nodes": [
     {
       "text": "Introduction",
-      "docId": "/introduction"
+      "docId": "/introduction.md"
     }, {
       "text": "Register a new user",
-      "docId": "/register-new-user"
+      "docId": "/register-new-user.md"
     }
   ]
 }
