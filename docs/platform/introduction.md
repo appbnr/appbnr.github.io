@@ -8,7 +8,7 @@ Make digitalization easier for all.
 
 ## Mission
 
-Our mission is to connect businesses and developers through a data-centric application platform. We aim to accelerate the delivery of digital solutions, while reducing costs, thereby enabling a smoother transition to digitalization for all.
+Our mission is to connect businesses and developers through a data-centric application platform. We aim to accelerate the delivery of digital solutions, while reducing costs, thereby enabling a smoother digital transformation for all.
 
 
 ## Value
