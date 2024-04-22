@@ -22,6 +22,14 @@
           "docId": "/cli-getting-started.md"
         }
       ]
+    }, {
+      "text": "API & Specification",
+      "children": [
+        {
+          "text": "Bundle Metadata File",
+          "docId": "/bundle-metadata-spec.md"
+        }
+      ]
     }
   ]
 }
