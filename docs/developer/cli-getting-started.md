@@ -38,7 +38,7 @@ abnr logout
 ### Bundle upload and install
 Upload
 ```bash
-abnr upload <bundle_file_path>
+abnr bundle upload <bundle_file_path>
 ```
 * `bundle_file_path` will point to bundle file locally
 > This can upload bundle for same app version if the selected version has not been marked as released.
@@ -46,7 +46,7 @@ abnr upload <bundle_file_path>
 Install
 
 ```bash
-abnr install <org> <app> <version> <path> [overwrite]
+abnr bundle install <org> <app> <version> <path> [overwrite]
 ```
 * `org`: organization code
 * `app`: application code, for example `short_code@develoepr_code`
@@ -55,3 +55,13 @@ abnr install <org> <app> <version> <path> [overwrite]
 * `overwrite`: `true` to overwrite already installed app
 
 > `overwrite` can be omited which will report CONFLICT if app already installed.
+
+Release
+
+```bash
+abnr bundle release <app> <ver>
+```
+* `org`: application code, for example `short_code@develoepr_code`
+* `ver`: version of the app
+
+> Once version marked as released, it will not be able to upload new bundle file for this version.
