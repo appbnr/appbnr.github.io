@@ -23,7 +23,7 @@ Login:
 abnr login [client_id] [client_secret] [--save]
 ```
 
-* `client_id` and `client_secret`, check [developer-access-token.md](developer-access-token.md) for more details
+* `client_id` and `client_secret`, check [developer-access-token.md](./developer-access-token.md) for more details
 * `--save` add this option if saving `client_id` and `client_secret` into local `.env` file
 
 >`.env` file located in `~/.abnr/cli/.env`, it will store `access_token` if login successfully. Optionally, `client_id` and `client_secret` may be saved as well if `--save` option provided.
