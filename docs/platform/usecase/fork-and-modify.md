@@ -1,3 +1,30 @@
 # Fork and Modify
 
-Have a great startup idea? Build from scratch based on code examples and templates, with help from experienced developers around the world.
+## Background
+
+If you have an existing app or find an open source app close to your needs, 
+then you can Fork and Modify it to best fit your needs.
+
+## Fork and Modify
+
+For business, here is the main steps:
+
+* Identify solutions which is close to your needs
+* Try to contact the developer of existing solutions
+  * if cannot, find other developers with similiar tech background, or domain expertise. You also can contact us for reference.
+* Compile a list of changes required
+* Discuss with your develoeprs and confirm delivery milestones, payment schedule
+* Ready to accept deliveries by milestone and pay on delivery
+
+For developer, here is the main steps:
+
+* List your past work as an examples
+* When business contact you regarding your past work, or somebody else work you have technologies and/ or expertise, respond.
+* Evalute change list
+* Work with business to propose milesone and payment schedule
+* Start working and get paid when deliver on milesone
+
+## What's next?
+
+Appbnr offers open source modules equipped with fundamental features to kickstart your projects.
+We will continue to expand this collection over time.
