@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300">
+  <circle cx="150" cy="150" r="100" stroke="black" stroke-width="3" fill="none"/>
+  <text x="150" y="150" font-size="60" text-anchor="middle" dominant-baseline="middle">易</text>
+
+  <line x1="150" y1="50" x2="150" y2="0" stroke="black" stroke-width="2"/>
+  <line x1="150" y1="250" x2="150" y2="300" stroke="black" stroke-width="2"/>
+  <line x1="50" y1="150" x2="0" y2="150" stroke="black" stroke-width="2"/>
+  <line x1="250" y1="150" x2="300" y2="150" stroke="black" stroke-width="2"/>
+  <line x1="79.2893" y1="79.2893" x2="0" y2="0" stroke="black" stroke-width="2"/>
+  <line x1="220.7107" y1="220.7107" x2="300" y2="300" stroke="black" stroke-width="2"/>
+  <line x1="79.2893" y1="220.7107" x2="0" y2="300" stroke="black" stroke-width="2"/>
+  <line x1="220.7107" y1="79.2893" x2="300" y2="0" stroke="black" stroke-width="2"/>
+
+  <text x="150" y="65" font-size="20" text-anchor="middle" dominant-baseline="middle">☰</text>
+  <text x="150" y="235" font-size="20" text-anchor="middle" dominant-baseline="middle">☷</text>
+  <text x="65" y="150" font-size="20" text-anchor="middle" dominant-baseline="middle">☳</text>
+  <text x="235" y="150" font-size="20" text-anchor="middle" dominant-baseline="middle">☵</text>
+  <text x="95" y="95" font-size="20" text-anchor="middle" dominant-baseline="middle">☲</text>
+  <text x="205" y="205" font-size="20" text-anchor="middle" dominant-baseline="middle">☶</text>
+  <text x="95" y="205" font-size="20" text-anchor="middle" dominant-baseline="middle">☴</text>
+  <text x="205" y="95" font-size="20" text-anchor="middle" dominant-baseline="middle">☱</text>
+</svg>

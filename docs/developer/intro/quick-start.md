@@ -1,5 +1,7 @@
 # Quick start
 
+> [中文版](quick-start-zh_CN.md)
+
 This is the quick start for you as a developer.
 
 ## 1. Register as an user

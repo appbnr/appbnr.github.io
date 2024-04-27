@@ -1,5 +1,7 @@
 # Developer Access Token
 
+> [中文版](developer-access-token-zh_CN.md)
+
 ## Create access token
 
 1. Go to user profile page https://www.appbnr.com/profile

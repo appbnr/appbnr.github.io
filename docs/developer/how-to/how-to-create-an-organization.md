@@ -1,5 +1,7 @@
 # How to create an organization
 
+> [中文版](how-to-create-an-organization-zh_CN.md)
+
 1. Go to user profile page https://www.appbnr.com/profile
 2. Click `My Organizations` under `My`
 3. Click `Add` for the first time
