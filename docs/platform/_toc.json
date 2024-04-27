@@ -57,8 +57,8 @@
       "text": "How to start",
       "children": [
         {
-          "text": "Install then Customize",
-          "docId": "/usecase/install-then-customize.md"
+          "text": "Install to User",
+          "docId": "/usecase/install-to-user.md"
         },
         {
           "text": "Fork and Modify",
