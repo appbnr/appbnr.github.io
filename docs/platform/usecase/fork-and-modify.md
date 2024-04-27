@@ -26,5 +26,5 @@ For developer, here is the main steps:
 
 ## What's next?
 
-Appbnr offers open source modules equipped with fundamental features to kickstart your projects.
-We will continue to expand this collection over time.
+You have an amazing startup idea, no existing solution close to your needs. Check out 
+[Start from Scratch](start-from-scratch.md) to see how to do that.
