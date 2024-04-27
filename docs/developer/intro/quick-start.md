@@ -11,7 +11,7 @@ You need an account to start. Following [instructions](https://www.appbnr.com/do
 At Appbnr.com, everything revolves around an organization. Apps, resources, charges, payments - everything is structured this way.
 As a developer, you too will need an organization to showcase the apps you've developed to the world.
 
-Following [instructions](/developer/how-to/how-to-create-an-organization.md) here to create an organizations.
+Following [instructions](/how-to/how-to-create-an-organization.md) here to create an organizations.
 
 ## 3. Get Appbnr CLI
 
