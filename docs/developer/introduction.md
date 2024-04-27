@@ -1,5 +1,5 @@
-# Introduction to Appbnr
-  
+# Welcome to Appbnr
+
 Appbnr is a data-centric application platform for creating digitalization solutions for organizations of various sizes.
   
 These Appbnr docs help you learn and use the Appbnr framework and development platform, from your first application to optimizing complex data-driven applications for enterprises.

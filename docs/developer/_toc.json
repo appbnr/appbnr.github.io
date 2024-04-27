@@ -7,6 +7,7 @@
     },
     {
       "text": "Getting started",
+      "docId": "/intro/quick-start.md",
       "children": [
         {
           "text": "Developer Access Token",
@@ -22,7 +23,8 @@
           "docId": "/cli-getting-started.md"
         }
       ]
-    }, {
+    },
+    {
       "text": "API & Specification",
       "children": [
         {
@@ -30,6 +32,10 @@
           "docId": "/bundle-metadata-spec.md"
         }
       ]
+    },
+    {
+      "text": "How to",
+      "docId": "/how-to/how-to.md"
     }
   ]
 }
