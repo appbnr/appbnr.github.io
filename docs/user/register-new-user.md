@@ -1,4 +1,6 @@
 # Register a new user
+
+> [中文版](register-new-user-zh_CN.md)
   
 This guide will walk you through the process of registering a new user.
 
