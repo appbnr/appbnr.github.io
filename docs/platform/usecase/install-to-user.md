@@ -1,4 +1,4 @@
-# Install then Customize
+# Install to User
 
 ## Background
 
