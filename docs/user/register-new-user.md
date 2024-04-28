@@ -7,7 +7,7 @@ This guide will walk you through the process of registering a new user.
 ## Email Registration
 
 ### Step 1: Email Registration and Verification
-* Visit appbnr.com
+* Visit [appbnr.com](https://www.appbnr.com)
 * Click the button at the top right corner, and select the `Sign Up` option from the drop-down menu.
 * Fill in your email address in the `Sign Up` form and click `Register`.
   * If the registration fails due to the email being already registered or any other reason, please verify your details and try again.
