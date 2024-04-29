@@ -4,7 +4,7 @@
 
 ## 创建访问令牌
 
-1. 前往用户个人资料页面 https://www.appbnr.com/profile
+1. 前往用户个人资料页面 [https://www.appbnr.com/profile](https://www.appbnr.com/profile)
 2. 点击 `Access Token` 在开发者下面
 3. 首次点击 `Create`
 

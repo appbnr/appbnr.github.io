@@ -4,7 +4,7 @@
 
 ## Create access token
 
-1. Go to user profile page https://www.appbnr.com/profile
+1. Go to user profile page [https://www.appbnr.com/profile](https://www.appbnr.com/profile)
 2. Click `Access Token` under Developer
 3. Click `Create` for the first time
 
