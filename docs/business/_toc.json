@@ -1,9 +1,0 @@
-{
-  "name": "Business",
-  "nodes": [
-    {
-      "text": "Introduction",
-      "docId": "/introduction.md"
-    }
-  ]
-}
